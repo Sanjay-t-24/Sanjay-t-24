@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sanjay-t-24
 - 👀 I’m interested in the Internet of Things, Drones, Robotics, and Embedded Systems. 
 - 🌱 I’m currently pursuing my bachelors in electronics and communication engineering
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Robotics, Iot Projects
 - 📫 How to reach me sanjay2411t@gmail.com or linkedin.com/in/sanjay-t2411
 - 😄 Pronouns: He / Him
 
