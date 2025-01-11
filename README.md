@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me sanjay2411t@gmail.com or linkedin.com/in/sanjay-t2411
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: Jack of all trades perso
 
 <!---
 Sanjay-t-24/Sanjay-t-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
